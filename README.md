@@ -1,4 +1,4 @@
-# Project Hello WOrld
+# Project Hello World!
 + By: *Chantal Thomas*
 + Production URL: <http://hello-world.dwa15.me>
 
