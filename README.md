@@ -1,2 +1,9 @@
-# hello-world
-Practice for fall 2018 semester
+# Project Hello WOrld
++ By: *Chantal Thomas*
++ Production URL: <http://hello-world.dwa15.me>
+
+## Outside resources
+n/a
+
+## Notes for instructor
+n/a
