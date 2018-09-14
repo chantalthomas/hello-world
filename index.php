@@ -6,7 +6,7 @@
 	<link href="css/main.css" rel="stylesheet" type="text/css" >
 </head>
 <body>
-	<h1>Hello World</h1>
+	<h1>Hello People</h1>
 	<img src='images/frenchie.jpg'
 </body>	
 </html>
